@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Joel Pike, In The Beginning"
+title: "Joel Pike: In The Beginning"
 date: 2020-07-27
 ---
 
