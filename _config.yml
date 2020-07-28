@@ -1,6 +1,12 @@
-name: Hank Quinlan, Horrible Cop
+name: Joel Pike, Gaming Enthusiast
 	markdown: kramdown
-  
+ 
+ 
+ 
+ 
+ <!---
+ 
+ 
   theme: jekyll-theme-cayman
 title: Musings of a Madman
 author: Joel Pike
@@ -13,3 +19,4 @@ github_username:  JoelTPike # DO NOT include the @ character, or else the build 
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
+--->
