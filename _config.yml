@@ -1,4 +1,7 @@
-theme: jekyll-theme-cayman
+name: Hank Quinlan, Horrible Cop
+	markdown: kramdown
+  
+  theme: jekyll-theme-cayman
 title: Musings of a Madman
 author: Joel Pike
 email: pikejt@gmail.com
